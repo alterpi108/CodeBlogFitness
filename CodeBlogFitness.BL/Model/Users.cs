@@ -8,5 +8,8 @@ namespace CodeBlogFitness.BL.Model
 {
     class Users
     {
+        public string userName;
+        public int age;
+        public string gender;
     }
 }
